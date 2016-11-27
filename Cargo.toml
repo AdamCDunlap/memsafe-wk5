@@ -1,0 +1,7 @@
+[package]
+name = "wk5"
+version = "0.1.0"
+authors = ["Adam Dunlap <dunlapadam@gmail.com>"]
+
+[dependencies]
+nom = "2.0"
